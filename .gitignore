@@ -1,0 +1,8 @@
+# Директорії
+bin/
+obj/
+.vs/
+.idea/
+
+# Файл
+temporary.txt
